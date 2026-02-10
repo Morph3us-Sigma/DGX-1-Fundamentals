@@ -5,7 +5,7 @@ This quick guide is useful for clients that start working with NVIDIA DGX-1 and 
 All the information below is public. There is also a 90sec video on youtube available for a quick overview      
 https://www.youtube.com/watch?v=fAZS4V2aolI. 
 
-![After processing](https://github.com/schoenemeyer/DGX-1-Fundamentals/blob/master/figures/maxresdefault.jpg)
+![After processing](https://github.com/Morph3us-Sigma/DGX-1-Fundamentals/blob/master/figures/maxresdefault.jpg)
 
 ## Install, Provisioning, Networking, NFS Mount  
 The User Guide is available as web version or as pdf     
@@ -110,7 +110,7 @@ hostnamectl set-hostname <newhostname>
 
 sudo nvsm show health
 
-![After processing](https://github.com/schoenemeyer/DGX-1-Fundamentals/blob/master/figures/dgx-1.JPG)
+![After processing](https://github.com/Morph3us-Sigma/DGX-1-Fundamentals/blob/master/figures/dgx-1.JPG)
 
 ## Learn how to use NGC
 
